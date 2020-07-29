@@ -1,5 +1,5 @@
 import React, {Fragment} from 'react';
-import './App.scss';
+
 import { BrowserRouter, Route } from "react-router-dom";
 import FilterMenu from './components/filter/filterMenu';
 
