@@ -1,0 +1,42 @@
+
+
+#filterMenu{
+  position: sticky;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background:
+    linear-gradient(
+    rgba(0, 0, 0, .6), 
+    rgba(0, 0, 0, .6)
+    ),
+    url('../../eye.svg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat; 
+  >div{
+    margin: 0 20px;
+    background-color: #fafafa;
+    border-radius: 50px;
+    flex-grow: 0;
+  }
+  h1{
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    position: absolute;
+    bottom: 60vh;
+  }
+}
+  
+.onFP{
+  height: 100vh;
+  transition: all .5s;
+  >div{
+    padding: 0px 20px 20px;
+  }
+}
+
+
+
