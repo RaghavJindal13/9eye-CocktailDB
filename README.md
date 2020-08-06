@@ -6,4 +6,4 @@ In this project i have implemented only selection of cocktails from the given li
 Category<br>
 Alcoholic<br>
 Glass<br><br>
-Further i will be implementing the showcase of the cocktails with images and ingredients
+Further i will be implementing the showcase of the cocktails with images and ingredients.
